@@ -1,0 +1,9 @@
+40 error Error: Command failed with exit code 1: git commit -F C:\Users\ALANA~1.ROD\AppData\Local\Temp\22d17f8f-52b4-491f-90d1-b655ceb0cae7\lerna-commit.txt
+40 error On branch main
+40 error Your branch is up to date with 'origin/main'.
+40 error
+40 error nothing to commit, working tree clean
+40 error     at makeError (C:\Users\alana.rodrigues\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\lib\error.js:60:11)
+40 error     at handlePromise (C:\Users\alana.rodrigues\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:118:26)
+40 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+40 error     at async Promise.all (index 0)
